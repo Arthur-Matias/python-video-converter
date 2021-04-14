@@ -6,9 +6,10 @@ Requisitos:
  - [Python](https://www.python.org/downloads/)
  - [ffmpeg](https://ffmpeg.org/download.html)
 
+Depois de instalar os pré requisitos basta apenas rodar
 
-        git clone https://github.com/Arthur-Matias/python_video_converter.git
-        cd python_video_converter
+    git clone https://github.com/Arthur-Matias/python_video_converter.git
+    cd python_video_converter
     
 Na pasta do repositório crie uma nova pasta chamada videos com os arquivos de video que deseja converter, e então
 
